@@ -1,5 +1,8 @@
-Flask
-keras
 numpy
 tensorflow
-scikit-image
+keras
+pandas
+scipy
+matplotlib
+seaborn
+tensorflow-hub
