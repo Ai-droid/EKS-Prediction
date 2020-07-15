@@ -17,7 +17,7 @@ global sess
 sess = tf.Session()
 set_session(sess)
 global model
-model = load_model('model_pred.h5')
+model = load_model('01copy_model.h5')
 global graph
 graph = tf.get_default_graph()
 
