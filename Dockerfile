@@ -15,4 +15,4 @@ RUN pip install -r requirements.txt
 EXPOSE 80
 
 # Run the application:
-CMD ["python", "app.py"]
+CMD ["python", "eks_app.py"]
